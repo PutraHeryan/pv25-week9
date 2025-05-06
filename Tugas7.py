@@ -6,7 +6,7 @@ from PyQt6.QtWidgets import (
 class InputDialogDemo(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Input Dialog Demo")
+        self.setWindowTitle("F1D022087 - Putra Heryan Gagah Perkasa")
 
         self.central_widget = QWidget()
         self.setCentralWidget(self.central_widget)
